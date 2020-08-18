@@ -13,3 +13,6 @@
 - To solve the assignment of week 5 (‘week5.ipynb’) you need ‘all.rar’
 
 - For week 6 (‘Week 6 tutorial 1.ipynb’ and ‘Week 6 tutorial 2.ipynb’) you don’t need extra files and you don’t have to solve anything. They are just useful tutorials for you to improve your skills in deep learning. Enjoy them. 
+
+## PS:
+Instructions to solve each assignment are given within each associated jupyter notebook (*.ipynb file)
