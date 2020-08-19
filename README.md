@@ -1,6 +1,5 @@
 # CE-652
 
-Some text over here
 
 - To solve the assignment of week 1 (‘week1.ipynb’) you need ‘imagen1.png’, ‘imagen2.png’ and ‘imagen3.png’
 
